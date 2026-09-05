@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "Juego de simulación burocrática argentina donde decidís el destino de la patria firmando o rechazando insólitos expedientes nacionales.",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "El sello ministerio de cosas varias",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "El sello",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "lang": "es"
+}
